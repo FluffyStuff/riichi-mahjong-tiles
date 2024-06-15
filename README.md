@@ -7,4 +7,4 @@ This repository contains vector graphics and PNG exports of riichi mahjong tiles
 </div>
 
 ## License
-The images are licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+All assets are in the [public domain](https://creativecommons.org/publicdomain/zero/1.0/).
